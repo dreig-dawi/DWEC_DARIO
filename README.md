@@ -1,2 +1,2 @@
-# DWEC_DARIO-
-First Vite project using Node.js
+# DWEC_DARIO
+First Vite project with JavaScript
